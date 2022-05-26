@@ -5,6 +5,6 @@ spec:
       git:
         branch: main
         repo_clone_url: https://github.com/ddebarros/sample-node-functions.git
-        source_dir: "/"
+      source_dir: "/"
       routes: 
         - path: '/'
