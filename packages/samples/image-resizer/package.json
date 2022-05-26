@@ -1,0 +1,8 @@
+{
+  "name": "image-resizer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "jimp":"^0.16.1"
+  }
+}

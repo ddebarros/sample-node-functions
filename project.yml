@@ -1,0 +1,6 @@
+packages:
+  - name: samples
+    actions:
+      - name: image-resizer
+        limits:
+          timeout: 5000

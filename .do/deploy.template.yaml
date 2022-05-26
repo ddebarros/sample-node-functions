@@ -1,0 +1,10 @@
+spec:
+  name: sample-node-functions
+  functions:
+    - name: functions-api
+    - git:
+        branch: main
+        repo_clone_url: https://github.com/ddebarros/sample-node-functions.git
+        source_dir: "/"
+        routes: 
+          - path: '/'
